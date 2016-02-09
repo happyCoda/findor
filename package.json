@@ -1,0 +1,32 @@
+{
+  "name": "findor",
+  "version": "0.1.0",
+  "description": "Search directory for a file",
+  "main": "findor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyCoda/findor.git"
+  },
+  "keywords": [
+    "node.js",
+    "search",
+    "utils",
+    "fs"
+  ],
+  "author": "happyCoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyCoda/findor/issues"
+  },
+  "homepage": "https://github.com/happyCoda/findor#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jasmine-nodejs": "^1.4.3",
+    "grunt-notify": "^0.4.3",
+    "time-grunt": "^1.3.0"
+  }
+}
